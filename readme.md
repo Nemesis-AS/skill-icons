@@ -115,6 +115,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `blender`      |    <img src="./icons/Blender-Dark.svg" width="48">    |
 |    `bootstrap`     |     <img src="./icons/Bootstrap.svg" width="48">      |
 |       `bsd`        |      <img src="./icons/BSD-Dark.svg" width="48">      |
+|      `bullmq`      |    <img src="./icons/BullMQ-Dark.svg" width="48">     |
 |       `bun`        |      <img src="./icons/Bun-Dark.svg" width="48">      |
 |        `c`         |         <img src="./icons/C.svg" width="48">          |
 |        `cs`        |         <img src="./icons/CS.svg" width="48">         |
@@ -142,6 +143,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `dotnet`      |       <img src="./icons/DotNet.svg" width="48">       |
 |     `dynamodb`     |   <img src="./icons/DynamoDB-Dark.svg" width="48">    |
 |     `eclipse`      |    <img src="./icons/Eclipse-Dark.svg" width="48">    |
+|       `ejs`        |      <img src="./icons/EJS-Dark.svg" width="48">      |
 |  `elasticsearch`   | <img src="./icons/Elasticsearch-Dark.svg" width="48"> |
 |     `electron`     |      <img src="./icons/Electron.svg" width="48">      |
 |      `elixir`      |    <img src="./icons/Elixir-Dark.svg" width="48">     |
@@ -247,6 +249,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `prometheus`    |     <img src="./icons/Prometheus.svg" width="48">     |
 |       `pug`        |      <img src="./icons/Pug-Dark.svg" width="48">      |
 |     `pycharm`      |    <img src="./icons/PyCharm-Dark.svg" width="48">    |
+|      `pygame`      |    <img src="./icons/Pygame-Dark.svg" width="48">     |
 |        `py`        |    <img src="./icons/Python-Dark.svg" width="48">     |
 |     `pytorch`      |    <img src="./icons/PyTorch-Dark.svg" width="48">    |
 |        `qt`        |      <img src="./icons/QT-Dark.svg" width="48">       |
@@ -254,6 +257,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `rabbitmq`     |   <img src="./icons/RabbitMQ-Dark.svg" width="48">    |
 |      `rails`       |       <img src="./icons/Rails.svg" width="48">        |
 |   `raspberrypi`    |  <img src="./icons/RaspberryPi-Dark.svg" width="48">  |
+|      `raylib`      |       <img src="./icons/Raylib.svg" width="48">       |
 |      `react`       |     <img src="./icons/React-Dark.svg" width="48">     |
 |    `reactivex`     |   <img src="./icons/ReactiveX-Dark.svg" width="48">   |
 |      `redhat`      |    <img src="./icons/RedHat-Dark.svg" width="48">     |
